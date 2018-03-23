@@ -8,12 +8,7 @@ public class Fibonachi {
         for (int i = 1; i <= n ; i++) {
             System.out.print(f(i) + " ");
         }
-
         System.out.println();
-
-
-
-
 
         fibo();
     }
